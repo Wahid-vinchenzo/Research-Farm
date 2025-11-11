@@ -16,10 +16,10 @@
 - NASA POWER Agroclimatic Data
 🔗 https://power.larc.nasa.gov/data-access-viewer/
 
--SoilGrids (ISRIC)
+- SoilGrids (ISRIC)
 🔗 https://soilgrids.org/
 
--OpenWeatherMap Historical Data
+- OpenWeatherMap Historical Data
 🔗 https://openweathermap.org/api
 
 ---
