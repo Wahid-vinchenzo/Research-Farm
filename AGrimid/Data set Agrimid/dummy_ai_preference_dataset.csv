@@ -1,0 +1,11 @@
+participant_id,age,gender,role,familiarity_ai,general_trust_ai,comfort_scheduling,comfort_grading_mcq,comfort_grading_essay,risk_scheduling,risk_grading_mcq,need_human_essay,task_pref_sensitive,task_routine_automate,concerns_top3
+P01,21,Male,Student,3,3,4,3,2,2,3,5,Hiring decisions,Email sorting; Scheduling meetings,Accuracy; Bias; Privacy
+P02,22,Female,Student,4,4,5,4,3,1,2,4,Financial approval,Note summarizing; MCQ grading,Privacy; Over-automation; Job loss
+P03,23,Male,Teacher,2,2,3,2,1,3,4,5,Student final grading,Draft generation; Scheduling,Bias; Accountability; Accuracy
+P04,24,Female,Student,3,3,4,3,2,2,3,5,Medical suggestions,Summaries; Routine research tasks,Misinterpretation; Privacy; Safety
+P05,25,Male,Office Staff,5,4,5,4,3,1,2,4,Salary calculation,Inventory checks; Emails,Data misuse; Reliability; Accuracy
+P06,26,Female,Teacher,4,3,4,3,2,2,3,5,Student emotional feedback,Lecture transcription; Scheduling,Bias; Emotional understanding; Fairness
+P07,27,Male,Student,2,2,3,2,1,3,4,5,Creative writing grading,Grammar correction; MCQ grading,Bias; Misgrading; Context loss
+P08,28,Male,Office Staff,3,3,4,3,2,2,3,4,Legal decisions,Report formatting; Email sorting,Accountability; Errors; Privacy
+P09,29,Female,Teacher,4,4,5,4,3,1,2,5,Performance evaluation,Data entry; Scheduling,Accuracy; Transparency; Bias
+P10,30,Female,Student,5,5,5,5,4,1,1,3,Final academic evaluation,Research summarization; Email filtering,Fairness; Context; Reliability
